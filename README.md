@@ -2,7 +2,7 @@
 I enjoy building mobile apps with Android and Kotlin. I also love Django and brainstorming clean UI/UX.
 - 🌱 I’m currently focusing more in-depth of Android development.
 - 😄 Fun fact: I love errors!
-- 👯 I’m open to collaborate on any Android project.
+- 👯 I’m open to collaborating on any Android project.
 ```kotlin
 object Sadman {
  val name = "Sadman Hasan"
